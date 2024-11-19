@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "752012781139",
+    "project_id": "grow-fund-697eb",
+    "storage_bucket": "grow-fund-697eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752012781139:android:09f5f2173aaa5f577e48a6",
+        "android_client_info": {
+          "package_name": "com.example.grow_fund"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh3mqosYZELHvOJj68vCVk62BnN8tzd-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
