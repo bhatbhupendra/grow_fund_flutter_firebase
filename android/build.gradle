@@ -16,3 +16,7 @@ subprojects {
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
+//this is i added after a error occured after inplementing shared pref
+// dependencies {
+//     classpath 'com.android.tools.build:gradle:8.1.0' // Update to the latest version
+// }

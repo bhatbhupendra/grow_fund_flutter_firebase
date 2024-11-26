@@ -33,7 +33,8 @@ class _RegisterState extends State<Register> {
               elevation: 0.0,
               title: const Text('Register to Grow Funds',
                   style: TextStyle(
-                    color: Colors.white, // Set the text color to white
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
                   )),
               actions: <Widget>[
                 ElevatedButton.icon(

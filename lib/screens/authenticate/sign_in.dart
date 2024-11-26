@@ -32,7 +32,7 @@ class _SignInState extends State<SignIn> {
               backgroundColor: const Color(0xFF4FA941), // A richer green color
               elevation: 2.0, // Add subtle shadow
               title: const Text(
-                'Sign in to Brew Crew',
+                'Sign in to Grow Funds',
                 style: TextStyle(
                   fontWeight: FontWeight.bold,
                   color: Colors.white,
